@@ -1,0 +1,17 @@
+*   0c2cbf8 (HEAD -> master, origin/master, origin/HEAD) Merge branch '7-count-tasks-per-category'
+|\
+| * dd4449c (origin/7-count-tasks-per-category, 7-count-tasks-per-category) Implement counting logic
+* | e16d893 Implement counting logic
+* |   26f4652 Merge pull request #11 from TheFleshy/4-sort-tasks-by-priority
+|\ \
+| * | 64bff12 (origin/4-sort-tasks-by-priority, 4-sort-tasks-by-priority) Implement sortTasksByPriority
+| |/
+* |   f07d07c Merge pull request #10 from TheFleshy/2-find-all-completed-tasks
+|\ \
+| |/
+|/|
+| * 506a678 (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Implement getCompletedTasks
+|/
+* d434b94 Add starter code
+* 5e783e6 Initial commit
+
